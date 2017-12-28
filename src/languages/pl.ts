@@ -124,22 +124,6 @@
         <translation>Wybierz język:</translation>
     </message>
     <message>
-        <source>English</source>
-        <translation>Angielski</translation>
-    </message>
-    <message>
-        <source>Ukrainian</source>
-        <translation>Ukraiński</translation>
-    </message>
-    <message>
-        <source>Russian</source>
-        <translation>Rosyjski</translation>
-    </message>
-    <message>
-        <source>Polish</source>
-        <translation>Polski</translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
@@ -148,8 +132,32 @@
         <translation>OK</translation>
     </message>
     <message>
-        <source>Belarusian</source>
-        <translation>Białoruski</translation>
+        <source>English</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Українська</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Русский</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Polski</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Беларуская</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deutsch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Español</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -186,7 +194,7 @@
 <context>
     <name>ConfirmSendDialog</name>
     <message>
-        <source>Comfirm sending %1 KRB</source>
+        <source>Confirm sending %1 KRB</source>
         <translation>Potwierdź wysłanie %1 KRB</translation>
     </message>
     <message>
@@ -996,7 +1004,7 @@ Czy chesz otworzyć stronę pobierania w przeglądarce?</translation>
         <translation></translation>
     </message>
     <message>
-        <source>Anonimity level:</source>
+        <source>Anonymity level:</source>
         <translation>Poziom anonimowości:</translation>
     </message>
     <message>
